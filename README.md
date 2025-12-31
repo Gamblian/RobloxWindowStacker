@@ -4,7 +4,12 @@ RobloxWindowStacker is a Windows utility that helps manage and stack multiple Ro
 
 ## Download (Windows)
 👉 **Download here:**  
+https://github.com/Gamblian/RobloxWindowStacker/releases/tag/Launcher
+
+Also refer to:
 https://github.com/Gamblian/RobloxWindowStacker/releases
+
+for future releases!
 
 ### How to install
 1. Download **RobloxWindowStackerLauncher.exe**
